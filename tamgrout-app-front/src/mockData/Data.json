@@ -1,0 +1,28 @@
+{
+  "Header": [{
+    "id":"1",
+    "title": "Home",
+    "link": "/"
+  },
+  {
+    "id":"2",
+    "title": "All products",
+    "link": "/allproducts"
+  },
+  {
+    "id":"3",
+    "title": "Collections",
+    "link": "/collections"
+  },
+  {
+    "id":"4",
+    "title": "infos",
+    "link": "/infos"
+  },
+  {
+    "id":"5",
+    "title": "Contact",
+    "link": "/infos"
+  }
+]
+}
